@@ -26,7 +26,7 @@ const Contact = () => {
         className="content p-4 md:p-10 lg:p-22 bg-white rounded-2xl shadow-[0px_0px_90px_9px_rgba(0,_0,_0,_0.1)]"
         id="contact"
       >
-        <div className="flex lg:gap-5 xl:gap-15 justify-between">
+        <div className="flex flex-col lg:flex-row lg:gap-5 xl:gap-15 justify-between">
           
             <div className="sm:w-1/2">
               <p className="text-[35px] font-semibold text-nowrap text-[#132238]">
