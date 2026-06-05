@@ -5,7 +5,6 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "prebuild": "node scripts/copy-favicon.cjs",
         "build": "vite build",
         "deploy": "vite build && gh-pages --dotfiles -d dist",
         "lint": "eslint .",
