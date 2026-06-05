@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { router } from "./routes/Router";
 import { RouterProvider } from "react-router-dom";
+import "../src/../index.css";
 
 // Set favicon from bundled asset (src/assets/FV.jpg)
 try {
