@@ -3,7 +3,6 @@ import logo from "../../../assets/logo.png";
 /* Footer nabLinks */
 const navItems = [
   { id: 1, name: "Home", url: "introduction" },
-  { id: 2, name: "About", url: "profile" },
   { id: 3, name: "Experience", url: "work-process" },
   { id: 4, name: "Skills & Education", url: "services" },
   { id: 5, name: "Portfolio", url: "portfolio" },
