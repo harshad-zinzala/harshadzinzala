@@ -32,7 +32,7 @@ const Contact = () => {
               <p className="text-[35px] font-semibold text-nowrap text-[#132238]">
                 Get in Touch
               </p>
-              <p className="text-[12px] xs:text-[14px] sm:text-lg md:text-lg max-lg:text-center pt-4 font-normal text-soft-dark">
+              <p className="text-[12px] xs:text-[14px] sm:text-lg md:text-lg pt-4 font-normal text-soft-dark">
                 Feel free to reach out for collaborations, design inquiries, or any questions. Let’s connect and create something meaningful together. Your ideas matter, and I’m here to help bring them to life.
               </p>
             </div>
